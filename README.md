@@ -14,10 +14,12 @@ A sample SQL based backend for ecommerce using Sequelize.
 - [Questions](#questions)
 
 ## Installation
-Start by going into the repo...
+Start by going into the repo and clone.
+Open the file using VS code/equivalent and npm i on the terminal.
 
 ## Usage
 Follow along with the vindeo in the link.
+https://youtu.be/y2MpNVWyujk
 
 ## Contributing
 If you made an approved pull request, you're a contributer.
